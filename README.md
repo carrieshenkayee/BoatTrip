@@ -23,13 +23,13 @@ Mental burnout and creativity burnout.
 ## 📌 Unique Features:
 This MVP offers 2 stress-reducing activities tailor-made for bootcampers that also aim to boost their creativity.
 
-## ✨Artist Studio: 
+✨Artist Studio: 
 Users are given a set of creative challenges to train their brain muscles and come up with innovative ideas. For example, create an app idea for those in *Pulp Fiction* to use in a *cat restaurant* with *a sense of humour*. Feel free to get a little crazy and build that connection that you would never thought of before.
 
-## ✨Music Massage: 
+✨Music Massage: 
 Our AI-generated guided meditation with soothing music is specifically tailored for bootcampers, offering a much-needed break from a day of hard-work. So forget about coding for just a few minutes and "we are swapping the bootcamp for breathing, and swapping react for relaxing..." Give it a go and share your feedback with us!
 
-### Let's ride the waves of inspiration, explore uncharted territories and emerge with newfound clarity and energy!!!
+Let's ride the waves of inspiration, explore uncharted territories and emerge with newfound clarity and energy!!!
 
 ## 📌 Future Expansion and Vision:
 We aim to expand Boat Trip by adding two additional rooms in the future. The Science Lab will offer users a chance to learn fun facts about various science topics. In Code Play, users will enjoy relaxing games that allow them to practice their coding skills in a stress-free environment, providing a contrast to the intense atmosphere of Code War.
