@@ -35,5 +35,5 @@ Let's ride the waves of inspiration, explore uncharted territories and emerge wi
 We aim to expand Boat Trip by adding two additional rooms in the future. The Science Lab will offer users a chance to learn fun facts about various science topics. In Code Play, users will enjoy relaxing games that allow them to practice their coding skills in a stress-free environment, providing a contrast to the intense atmosphere of Code War.
 
 ## 🔎 Team Members: 
+Meet the amazing team of Artology - Lee Palmer, Carrie Shen, Hildigunnur Sigvaldadóttir and Katim Touray! We are from the UK, Iceland and Hong Kong, all currently embarking on a 16-week coding bootcamp at the School of Code, where we are honing our skills to become full-stack software developers. With a passion for teamwork and a hunger for knowledge, Artology is sailing full speed ahead into the world of wonders!
 👩🏼‍🎨 👩🏻‍🚀 🧑🏻‍🔬 🕵🏿 💬
-Meet the amazing team of Artology - Lee Palmer, Carrie Shen, Hildigunnur Sigvaldadóttir and Katim Touray! We are from the UK, Iceland and Hong Kong, all currently embarking on a 16-week coding bootcamp at the School of Code, where we are honing our skills to become full-stack software developers. With a passion for teamwork and a hunger for knowledge, Artology is sailing full speed ahead into the world of wonders! 
