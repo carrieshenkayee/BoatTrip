@@ -1,5 +1,5 @@
 # 🚀 Mid-term Project Week 🚀
-Bootcamp: {Week 6} at the School of Code
+Bootcamp: {Week 7} at the School of Code
 
 ## 🛥 Boat Trip 🛥
 Introducing Boat Trip, an energiser app built to combat mental and creativity burnout in coding bootcamps. With the increasing pressure and intensity in learning how to code just in 16 weeks, it's easy to feel like you're all at sea, struggling to stay afloat. But now, please come onboard, take a moment to relax, ride the waves, and recharge.
